@@ -1,1 +1,6 @@
+¿Qué es RVM?
 RVM es una herramienta de línea de comandos que permite instalar fácilmente, gestionar y trabajar con múltiples entornos de intérpretes ruby
+
+¿Cuáles son las diferencias entre la ejecución del programa "Hola Mundo" con el intérprete de Ruby (ruby helloWorld.rb) y el intérprete interactivo del ejercicio anterior?
+
+Con el interprete de Ruby no se muestra el resultado de la ejecución de cada instrucción, mientras que Al ejecutar el fichero con el interprete irb, se muestra lo que devuelve cada instrucción.
